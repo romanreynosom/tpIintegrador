@@ -1,0 +1,73 @@
+
+.cabeza{
+    background-image: url('./fotos/ba1.jpg');
+    background-size: cover;
+    height: 630px;
+    text-align: right;
+    filter: brightness(0.6);   
+}
+
+.cuerpo{
+     text-decoration: solid;
+     position: absolute;
+    top: 40%;
+    left: 40%;
+}
+
+.nav{
+    background-color: rgb(87, 84, 84);
+    
+}
+
+.navegador{
+    margin-left: 15%;
+}
+
+
+.codo{
+    
+    height: 100px;
+    margin-left: 6%;
+}
+.oradores{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.ora{
+    text-align: center;
+}
+
+.octubre{
+    height: 100%;
+}
+
+.texto{
+    
+   color: white;
+    margin-right: 10%;
+    
+}
+.botones{
+    margin-right: 10%;
+}
+
+.form-floating{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.nav-link{
+color: white;
+}
+
+
+.formulario{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.record{
+    color: gray;
+}
+
